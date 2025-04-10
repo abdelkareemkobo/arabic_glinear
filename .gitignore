@@ -1,2 +1,5 @@
 models/
+models_unique_data/
 100k_aya_expanse_gliner.json
+data.json
+ner_results.jsonl
